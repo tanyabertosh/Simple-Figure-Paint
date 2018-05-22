@@ -1,0 +1,9 @@
+C:\БГУИР\2 КУРС\ООП\лаба\graphicApp\graphicApp\bin\Debug\graphicApp.exe.config
+C:\БГУИР\2 КУРС\ООП\лаба\graphicApp\graphicApp\obj\Debug\graphicApp.exe
+C:\БГУИР\2 КУРС\ООП\лаба\graphicApp\graphicApp\obj\Debug\graphicApp.pdb
+C:\БГУИР\2 КУРС\ООП\лаба\graphicApp\graphicApp\bin\Debug\graphicApp.exe
+C:\БГУИР\2 КУРС\ООП\лаба\graphicApp\graphicApp\bin\Debug\graphicApp.pdb
+C:\БГУИР\2 КУРС\ООП\лаба\graphicApp\graphicApp\obj\Debug\graphicApp.csprojResolveAssemblyReference.cache
+C:\БГУИР\2 КУРС\ООП\лаба\graphicApp\graphicApp\obj\Debug\graphicApp.Form1.resources
+C:\БГУИР\2 КУРС\ООП\лаба\graphicApp\graphicApp\obj\Debug\graphicApp.Properties.Resources.resources
+C:\БГУИР\2 КУРС\ООП\лаба\graphicApp\graphicApp\obj\Debug\graphicApp.csproj.GenerateResource.Cache
